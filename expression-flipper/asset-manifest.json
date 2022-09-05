@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/expression-flipper/static/js/main.da11d71c.js",
+    "main.js": "/expression-flipper/static/js/main.3de06bfa.js",
     "index.html": "/expression-flipper/index.html",
-    "main.da11d71c.js.map": "/expression-flipper/static/js/main.da11d71c.js.map"
+    "main.3de06bfa.js.map": "/expression-flipper/static/js/main.3de06bfa.js.map"
   },
   "entrypoints": [
-    "static/js/main.da11d71c.js"
+    "static/js/main.3de06bfa.js"
   ]
 }
